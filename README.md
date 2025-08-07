@@ -1,100 +1,50 @@
-# 👋 Hi there, I’m Mohammad Zalloum
+<h1 align="center">I'm Mohammad Zalloum</h1>
 
-**AI Engineering & Robotics Engineer**
+<h2 align="center">Data Scientist | Robotics Devaloper</h2>
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohammad-zalloum-36158323b/)
-[![Email](https://img.shields.io/badge/Email-✉️-green)](mailto:mohammad.zalloum098@gmail.com)
-[![Website](https://img.shields.io/badge/Portfolio-🌐-lightgrey)](https://mohammadzalloum.dev)
+  <p align="center">
+    <a href="https://www.google.com.eg/search?q=ahmed+hemeda"> <!-- Google Me -->
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&color=30D050&pause=2000"> <!-- Text -->
+    </a>
+  </p>
 
----
+  <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=4010B0" height="25"/> <!-- Profile Views -->
+  </p>
 
-## 🎯 About Me
+<h3 align="left">📤 Connect with Me:</h3>
+  <p align="left">
+    <a href="mailto:7hemeda@gmail.com"> <!-- Gmail -->
+      <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35"/>
+    </a>&nbsp;
+    <a href="https://www.linkedin.com/in/a-hemeda"> <!-- LinkedIn Profile -->
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
+    </a>&nbsp;
+    <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O"> <!-- WhatsApp Channel -->
+      <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="45"/>
+    </a>&nbsp;
+    <a href="https://codeforces.com/profile/A-Hemeda"> <!-- Codeforces Profile -->
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-3029920.png" height="45"/>
+    </a>
+  </p>
 
-- 🎓 Recent graduate in Artificial Intelligence from Al-Zaytoonah University of Jordan (GPA: 3.04)
-- 🤖 Passionate about end-to-end AI/ML workflows, embedded IoT platforms, and robotics solutions.
-- 🚀 Experienced in Agile project management, team leadership, and hackathons.
+<h3 align="left">🛠️ Languages & Tools:</h3>
+  <p align="left">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,postman,swagger,sqlserver,redis,git,html,css,js,docker"/>
+  </p>
 
----
+<h3 align="left">🏆 GitHub Trophies:</h3>
+  <p align="left">
+    <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/>
+  </p>
+  <br>
 
-## 🛠️ Languages & Tools
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp; <!-- Most Used Languages -->
+    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="120"/> <!-- GitHub Streak -->
+  </p>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
-</p>
-
----
-
-## 🚧 Projects
-
-### Fire Fighting Robot
-
-Smartphone-controlled robot with gas & flame sensors to detect and extinguish fires remotely. ([Repo](https://github.com/mohammadzalloum/fire-fighting-robot))
-
-### Farm Automation Robot
-
-Autonomous robot measuring environmental conditions to plant and irrigate crops automatically. ([Repo](https://github.com/mohammadzalloum/farm-robot))
-
-### Smart Home System
-
-Solar-powered system controlling lighting, outlets, monitoring gas, temperature, and motion with mobile app interface. ([Repo](https://github.com/mohammadzalloum/smart-home-system))
-
-### Smartphone Dataset Analysis
-
-Analysis of 900+ smartphone models generating market insights on price, performance, and features. ([Repo](https://github.com/mohammadzalloum/smartphone-analysis))
-
----
-
-## 💼 Experience & Education
-
-**Data Scientist Intern**, Correlation One — Excel, Data Wrangling, Dashboard Design ([CorrelOne GitHub Org](https://github.com/correlation-one))
-
-**AI/ML Bootcamp**, Sprints AI & ML — Agile, Python, Deep Learning, NLP
-
-**B.Sc. in Artificial Intelligence**, Al-Zaytoonah University of Jordan (2020–2024), GPA: 3.04
-
----
-
-## 📜 Certifications
-
-- Mobile Robotix, Al-Hussein Technical University
-- Technical AI in Business, Princess Sumaya University
-- 42 Amman Piscine
-
----
-
-## 📈 GitHub Stats
-
-![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadzalloum&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohammadzalloum&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadzalloum&layout=compact&theme=radical)
-
-![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadzalloum&show_icons=true&theme=radical)
-
----
-
-## 📤 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-zalloum-36158323b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mohammad.zalloum098@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://mohammadzalloum.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
-  </a>
-</p>
-
-## 📫 Get in Touch
-
-Feel free to connect via [LinkedIn](https://www.linkedin.com/in/mohammad-zalloum-36158323b/) or send me an email at [mohammad.zalloum098@gmail.com](mailto:mohammad.zalloum098@gmail.com).
+  <p align="left">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
+  </p>
