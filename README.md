@@ -3,11 +3,7 @@
 <h2 align="center">Data Scientist | Robotics Developer</h2>
 <br>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=48EB78&center=true&width=435&lines=Hello+%2C+there!;this+is+mohammad+zalloum....;Nice+to+meet+you!" alt="Typing SVG" />
-  </a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=48EB78&center=true&width=435&lines=Hello+%2C+there!;this+is+mohammad+zalloum....;Nice+to+meet+you!" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=4010B0" height="25"/>
