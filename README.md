@@ -26,6 +26,9 @@
   <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O">
     <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="45"/>
   </a>&nbsp;
+
+ </p>
+
   
 
 
