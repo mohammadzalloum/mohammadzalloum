@@ -29,12 +29,11 @@
 
  </p>
 
-  
 
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,postman,swagger,sqlserver,redis,git,html,css,js,docker"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,c,py,html,css,arduino,linux,pycharm"/>
 </p>
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
@@ -44,7 +43,7 @@
 <br>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadzalloum&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp;
   <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="120"/>
 </p>
 
