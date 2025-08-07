@@ -9,10 +9,6 @@
     </a>
   </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=4010B0" height="25"/>
-</p>
-
 <h3 align="left">📤 Connect with Me:</h3>
 <p align="left">
   <a href="mailto:mohammad.zalloum098@gmail.com.com">
