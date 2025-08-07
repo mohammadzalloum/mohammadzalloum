@@ -40,7 +40,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadzalloum&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="120"/>
+  <img src="https://streak-stats.demolab.com/?user=mohammadzalloum&theme=highcontrast" height="120"/>
 </p>
 
 <p align="left">
