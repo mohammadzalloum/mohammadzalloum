@@ -5,7 +5,7 @@
 
   <p align="center">
     <a href="https://www.google.com.eg/search?q=ahmed+hemeda"> <!-- Google Me -->
-      <img src="[https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&color=30D050&pause=2000](https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=48EB78&center=true&width=435&lines=Hello+%2C+there!;this+is+mohammad+zalloum....;Nice+to+meet+you!" alt="Typing SVG)"> <!-- Text -->
+      <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=48EB78&center=true&width=435&lines=Hello+%2C+there!;this+is+mohammad+zalloum;Nice+to+meet+you!"> <!-- Text -->
     </a>
   </p>
 
