@@ -23,11 +23,10 @@
     <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="45"/>
   </a>&nbsp;
 
-<a href="https://discord.gg/yourServerInviteCode" target="_blank">
-  <img src="https://discord.com/users/mohammad7393" height="45"/>
-</a>&nbsp;
 
- </p>
+<a href="https://discord.com/users/mohammad7393" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" height="45"/>
+</a>&nbsp;
 
 
 
