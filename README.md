@@ -38,7 +38,7 @@
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Eias02&show_icons=true&theme=radical" />
+<img src="https://streak-stats.demolab.com/?user=mohammadzalloum&theme=highcontrast" height="120"/>
 </p>
 <br>
 
