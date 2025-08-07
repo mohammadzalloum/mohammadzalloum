@@ -4,9 +4,14 @@
 <br>
 
   <p align="center">
-    <a href="https://www.google.com.eg/search?q=mohammad+zalloum"> <!-- Google Me -->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=48EB78&width=435&lines=Hello+%2C+there!;this+is+mohammad+zalloum....;Nice+to+meet+you!" alt="Typing SVG" /></a> <!-- Text -->
-    </a>
+    <a href="https://www.google.com.eg/search?q=mohammad+zalloum"><!-- Google Me -->
+      
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=48EB78&width=435&lines=Hello+%2C+there!;this+is+mohammad+zalloum....;Nice+to+meet+you!" alt="Typing SVG" />
+  </a>
+</p>
+    
   </p>
 
   <p align="center">
