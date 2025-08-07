@@ -15,19 +15,19 @@
 
 <h3 align="left">📤 Connect with Me:</h3>
 <p align="left">
-  <a href="mailto:7hemeda@gmail.com">
+  <a href="mailto:mohammad.zalloum098@gmail.com.com">
     <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35"/>
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/a-hemeda">
+  
+  <a href="https://www.linkedin.com/in/mohammad-zalloum-36158323b">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
   </a>&nbsp;
+  
   <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O">
     <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="45"/>
   </a>&nbsp;
-  <a href="https://codeforces.com/profile/A-Hemeda">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-3029920.png" height="45"/>
-  </a>
-</p>
+  
+
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
 <p align="left">
