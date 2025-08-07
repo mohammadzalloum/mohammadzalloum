@@ -29,7 +29,7 @@
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,c,py,html,css,arduino,linux,pycharm"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,html,css,arduino,linux,pycharm"/>
 </p>
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
