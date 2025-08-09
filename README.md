@@ -1,6 +1,6 @@
 <h1 align="center">I'm Mohammad Zalloum</h1>
 
-<h2 align="center">Data Scientist | Robotics Developer</h2>
+<h2 align="center">Ai engineer | Robotics Developer</h2>
 <br>
 
 <p align="center">
