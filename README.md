@@ -9,6 +9,14 @@
   </a>
 </p>
 
+  <p>
+    <a href="https://drive.google.com/file/d/1W272WvN9JqHiff2Bvp5UbXC-m9BobH16/view?usp=drivesdk">
+      <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
+    <a href="https://a-hemeda.github.io/Portfolio">
+      <img src="https://img.shields.io/badge/My Portfolio-00307A?style=flat-square&logo=linkfire&logoColor=white" style="height:32px; object-fit:contain;"/></a>
+  </p>
+
+
 <h3 align="left">📤 Connect with Me:</h3>
 <p align="left">
   <a href="mailto:mohammad.zalloum098@gmail.com" target="_blank" rel="noopener noreferrer">
