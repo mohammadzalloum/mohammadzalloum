@@ -10,7 +10,7 @@
 </p>
 
   <p>
-    <a href="https://drive.google.com/file/d/1g7sKrpT0wg7DIbvunhGrIwlDhLtt0Y_m/view?usp=sharing">
+    <a href="https://drive.google.com/file/d/1QE84wB-89_wkEhLLVnbWJX6K4gKgSqpW/view?usp=sharing">
       <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
     <a href="https://mohammadzalloum.github.io/personal-portfolio/">
       <img src="https://img.shields.io/badge/My Portfolio-00307A?style=flat-square&logo=linkfire&logoColor=white" style="height:32px; object-fit:contain;"/></a>
