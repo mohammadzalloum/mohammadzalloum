@@ -41,10 +41,9 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,html,css,arduino,linux,pycharm"/>
 </p>
 
-<h3 align="left">🏆 GitHub Trophies:</h3>
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammadzalloum&theme=onestar&row=1&column=7"/>
-</p>
+  <p align="center">
+    <img src="https://github-profile-trophy-ahmed.vercel.app/?username=mohammadzalloum&theme=onestar&no-bg=true&no-frame=true&row=1&column=7">
+  </p>
 
 <br>
 
